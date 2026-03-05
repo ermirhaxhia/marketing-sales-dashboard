@@ -111,7 +111,7 @@ The workbook uses a **star schema** built with Excel's Power Pivot Data Model. T
 
 ---
 
-[**Download**](https://github.com/ermirhaxhia/marketing-sales-dashboard/blob/main/Marketing%20Sales%20Dashboards.xlsx)
+[**Download**](https://github.com/ermirhaxhia/marketing-sales-dashboard/raw/main/Marketing%20Sales%20Dashboards.xlsx)
 
 ## 👤 Author
 
