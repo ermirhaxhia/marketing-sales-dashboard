@@ -119,7 +119,9 @@ To have access to all the options this task has (`slicer`, `formulas`, `pivot-ta
 
 ---
 
-## 👤 Author
+## Author
+**Ermir Haxhia**
 
-**Ermir Haxhia** — Applied Mathematics · Data Analysis · Programming  
-🌐 [Portfolio](https://ermir-haxhia.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ermir-haxhia-b988212b5) · [GitHub](https://github.com/ermirhaxhia)
+🌐  [Portfolio](https://infrequent-network-348.notion.site/Ermir-Haxhia-Data-Analysis-Portfolio-32c61957cde1800ebff6d7c1190170ae?pvs=143)
+· [LinkedIn](https://www.linkedin.com/in/ermir-haxhia-b988212b5)
+· [GitHub](https://github.com/ermirhaxhia)
